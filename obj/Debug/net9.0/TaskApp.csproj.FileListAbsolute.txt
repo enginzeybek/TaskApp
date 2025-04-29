@@ -1,0 +1,14 @@
+c:\Users\LENOVO 2022\Documents\Github\TaskApp\bin\Debug\net9.0\TaskApp.exe
+c:\Users\LENOVO 2022\Documents\Github\TaskApp\bin\Debug\net9.0\TaskApp.deps.json
+c:\Users\LENOVO 2022\Documents\Github\TaskApp\bin\Debug\net9.0\TaskApp.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\TaskApp\bin\Debug\net9.0\TaskApp.dll
+c:\Users\LENOVO 2022\Documents\Github\TaskApp\bin\Debug\net9.0\TaskApp.pdb
+c:\Users\LENOVO 2022\Documents\Github\TaskApp\obj\Debug\net9.0\TaskApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\TaskApp\obj\Debug\net9.0\TaskApp.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TaskApp\obj\Debug\net9.0\TaskApp.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\TaskApp\obj\Debug\net9.0\TaskApp.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\TaskApp\obj\Debug\net9.0\TaskApp.dll
+c:\Users\LENOVO 2022\Documents\Github\TaskApp\obj\Debug\net9.0\refint\TaskApp.dll
+c:\Users\LENOVO 2022\Documents\Github\TaskApp\obj\Debug\net9.0\TaskApp.pdb
+c:\Users\LENOVO 2022\Documents\Github\TaskApp\obj\Debug\net9.0\TaskApp.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\TaskApp\obj\Debug\net9.0\ref\TaskApp.dll
